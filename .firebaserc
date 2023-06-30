@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "user-angular-firebase": {
+      "hosting": {
+        "user-angular-firebase": [
+          "user-angular-firebase"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "user-angular-firebase"
+  }
+}
